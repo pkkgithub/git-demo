@@ -3,8 +3,6 @@
 This is the first file in this repo.
 test
 
-## Ipsum Below
+## Website Contents
 
-This is the second paragraph of the test file
-
-Another paragraph
+1. index.html
